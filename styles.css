@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+}
+h1 {
+	color: white;
+	font-size: 1.75rem;
+}
+
+h2 {
+	font-size: 1.25rem;
+}
+
+p {
+	font-size: 1.0rem;
+}
+
+.tab {
+	margin-left: 2rem;
+}
+
+.cardnotes {
+	color: white;
+}
